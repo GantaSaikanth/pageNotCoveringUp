@@ -1,0 +1,21 @@
+.thumbnail-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.thumbnail-list {
+  display: flex;
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.thumbnail-image {
+  height: 120px;
+  width: 120px;
+}

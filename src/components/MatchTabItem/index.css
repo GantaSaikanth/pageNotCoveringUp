@@ -1,0 +1,23 @@
+.lists {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.list-para {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.is-text-orange {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-decoration: underline;
+}
